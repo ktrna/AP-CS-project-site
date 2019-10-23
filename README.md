@@ -1,3 +1,3 @@
 # AP-CS-project-site
 
-https://ktrna.github.io/AP-CS-project-site/
+file://busd-fs/bhs-kaiser/taageperak58724/my-projects/index.html
