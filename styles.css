@@ -29,7 +29,7 @@ header nav ul li {
 #projects, #aboutme {
     margin: 0 auto;
     width: 90%;
-    max-width: 600px;
+    max-width: 1000px;
 }
 
 .project {
@@ -38,7 +38,7 @@ header nav ul li {
 }
 
 .project img, #aboutme img {
-    width: 1000px;
+    width: 250px;
     float: left;
     margin-right: 10px;
     margin-left: 10px;
