@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif
+    font-family: sans-serif;
 }
 
 a {
@@ -7,7 +7,7 @@ a {
 }
 
 a:hover {
-    color: #00AEFF
+    color: #00AEFF;
 }
 
 header {
@@ -26,8 +26,8 @@ header nav ul li {
 .clear {
     clear: both;
 }
-#projects {
-    margin: 0 auto
+#projects, #aboutme {
+    margin: 0 auto;
     width: 90%;
     max-width: 600px;
 }
@@ -41,6 +41,7 @@ header nav ul li {
     width: 250px;
     float: left;
     margin-right: 10px;
+    margin-left: 10px;
     margin-bottom: 20px;
 }
 .project h2 {
